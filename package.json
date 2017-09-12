@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "test": "mocha test/*Test.js"
+    },
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "chai-sorted": "*",
+        "mocha": "^3.4.2"
+    }
+}
